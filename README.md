@@ -16,6 +16,7 @@
 * User Logout
 * User Profile
 * Create, Add, Delete and Update Products
+* Add and Delete From Cart
 
 ## Result
 ![](result2.png)
